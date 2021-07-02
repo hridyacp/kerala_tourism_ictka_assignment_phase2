@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img-fluid{
+    width: 100%; 
+    height: auto;
+}
+.carousel {
+    width: 640px;
+    height: 530px;
+    margin-left: 10%;
+}
+.img-fluid{
+    width: 100%;
+    height: auto;
+}
+.card{
+    width: 640px;
+    height: 530px;
+}
+.card-img-top{
+    width: 640px;
+    height: 370px;
+    object-fit: cover;
+}
+footer{
+    margin: 0;
+    padding: 0;
+}
+.one {
+    margin-left: 30%;
+}
+.para{
+    margin-top: 2%;
+    text-align: center;
+    line-height: 2px;
+}
+button{
+    background-color: rgb(58, 58, 197); 
+    display: inline-block;
+    padding: 6px 25px;
+    border: none;
+    margin-top: 10%;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
